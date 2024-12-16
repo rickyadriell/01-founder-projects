@@ -32,7 +32,7 @@ The projects in 01 Founders mimic the real-world projects that you will be worki
 
 ## Rust Programming
 
-[**smart-road**](git@github.com:NRK-group/road-manager.git)
+[**smart-road**](https://github.com/NRK-group/road-manager.git)
 
 [**filler**](https://github.com/nater6/filler)
 
