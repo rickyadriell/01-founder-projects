@@ -1,6 +1,6 @@
 # 01 Founders Projects
 
-The projects in 01 Founders mimic the real-world projects that you will be working on as a software engineer. All projects is  created by collaborating with other aspiring software engineers. The projects are designed to help you build a portfolio of work that demonstrates your skills as a software engineer. Projects are divided into 3 modules including Go programming, JavaScript programming, and Rust programming. It's also have pool of projects that you work on and collaborated with other members in the community.
+The projects in 01 Founders mimic the real-world projects that you will be working on as a software engineer. All projects is  created by collaborating with other aspiring software engineers. The projects are designed to help you build a portfolio of work that demonstrates your skills as a software engineer. Projects are divided into 3 modules including Go programming, JavaScript programming, and Rust programming. It's also have pool of projects that you can work on and collaborated with other members in the community.
 
 ## Go Programming
 
